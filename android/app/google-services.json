@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "750002165054",
+    "project_id": "shankar-textiles",
+    "storage_bucket": "shankar-textiles.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750002165054:android:edc0cc7dee483a2211486f",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750002165054-5pduppmgnntlqd2d26mnthdtg8fe5k6a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.e_commerce_app",
+            "certificate_hash": "5ed2849ae3096b0d0e532b7825e7ba3261844a32"
+          }
+        },
+        {
+          "client_id": "750002165054-imvoef212lj1ccg28o9kr99ueigi3fp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN8wILXkcJg170n2ul1jzuNEFHzjLpdkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750002165054-imvoef212lj1ccg28o9kr99ueigi3fp4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "750002165054-3gc6mc1kavih2jt4lr7l8t8i9p6e4olb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.eCommerceApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
